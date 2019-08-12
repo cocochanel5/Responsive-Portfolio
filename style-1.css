@@ -7,6 +7,9 @@
     text-transform: uppercase;
 }
 
+#portfoliolink {
+    color: white;
+}
 
 body {
     background-color: black;
